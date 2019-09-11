@@ -12,7 +12,8 @@
 	<header>
 		<a href= "index.php">
 			<h1> Dewey Bazirake </h1>
-			<img src= "dewey_pic" alt="maria">
+			<img src= "images/dewey_pic.jpg" alt="dewey">
+			
 		</a>
 	</header>
 
