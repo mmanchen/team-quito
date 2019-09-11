@@ -11,7 +11,7 @@
 
 	<header>
 		<a href= "index.php">
-		<img scr="images/rsz_quito.jpg" alt="quito">
+		<img scr="photo-maria.jpg" alt="quito">
 	
 			<h1> QUITO </h1>
 			
