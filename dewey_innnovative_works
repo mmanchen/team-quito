@@ -6,43 +6,40 @@
 
 
 
-<div class="container">
-
-<body>
+<body class="container">
 
 
 
+<header>
+	<a href="index.php/">
+		<h1>Dewey Bazirake</h1>
+		<img src="images/dewey_pic.jpg" alt="Picture of Dewey Bazirake">
+	</a>
+</header>
 
-
-
+<?php include "inc/nav.inc"; ?>
 
 <aside>
 
-	<a href="https://linkedin.com/in/dewey-bazirake-47566762/"><img src="images/dewey_pic.jpg" alt="Picture of Dewey Bazirake"></a>
+<ul>
+
+	<li>Dewey Bazirake</li>
+
+	<li>Data Scientist & Systems Analyst</li>
+
+	<li>Business Analytics + Comp Sci</li>
+
+</ul>
 
 </aside>
 
 
 
-<section>
-
-
-
-<h1>Dewey Bazirake</h1>
-
-<h3>Data Scientist & Systems Analyst</h3>
-
-<h3>Business Analytics + Comp Sci</h3>
-
-
-
-</section>
-
-
-
-<h2>Innovative Works</h2>
 
 <main>
+
+<h1>Innovative Works</h1>
+
 
 <p>
 
@@ -59,30 +56,15 @@ I take pleasure in starting and managing companies. So far, I have two companies
 <?php include "inc/scripts.php"; ?>
 
 
-
-
-
-
 <footer>
 
-
-
-	<p>CSC 174: Advanced Front-end Web</p>
-
-	<p>Design and Development</p>
-
+	<p><strong>CSC 174: Advanced Front-end Web</strong></footer>
 
 
 </footer>
 
 
-
-</div>
-
 </body>
-
-
-
 
 
 </html>
