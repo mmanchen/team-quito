@@ -11,7 +11,7 @@
 
 	<header>
 		<a href= "index.php">
-			<h1> Maria Mancheno </h1>
+			
 			
 		</a>
 	</header>
