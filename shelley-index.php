@@ -12,7 +12,7 @@
 	<header>
 		<a href= "index.php">
 			<h1> Xueying Chang </h1>
-			<img src= "images/shelley.jpg.jpg" alt="shelley">
+			<img src= "images/shelley.jpg" alt="shelley">
 			
 		</a>
 	</header>
