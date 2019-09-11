@@ -1,5 +1,3 @@
-</html>
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -13,7 +11,7 @@
 
 	<header>
 		<a href= "index.php">
-			<h1> MDewey Bazirake </h1>
+			<h1> Dewey Bazirake </h1>
 			<img src= "dewey_pic" alt="maria">
 		</a>
 	</header>
