@@ -4,13 +4,13 @@
 			<a href="index.php"> Home Page </a>
 		</li>
 		<li>
-			<a href="social-entrepreneurship.php">Social Entrepreneurship</a>
+			<a href="shelley-index.php">Shelley</a>
 		</li>
 		<li>
-			<a href="mindfulness-meditation.php"> Yoga and Meditation</a>
+			<a href="dewey_index.php">Dewey</a>
 		</li>
 		<li>
-			<a href="island-travel.php"> Becoming an island hopper </a>
+			<a href="maria-index.php"> Maria </a>
 		</li>
 	</ul>	
 	</nav>
