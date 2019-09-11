@@ -1,1 +1,2 @@
-# team3
+Web Development Project CSC 170
+
