@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title> Shelley, Dewey, Maria | Lab 2 </title>
+	<title> Team Quito </title>
 	<link rel="stylesheet" type="text/css" href="css/styles.css">
 	<script src="menu-highlighter.js"></script>
 </head>
@@ -11,9 +11,8 @@
 
 	<header>
 		<a href= "index.php">
-		<img scr="images/rsz_quito.jpg" alt="quito">
-	
-			<h1> QUITO </h1>
+			<h1> Team Quito </h1>
+			<img src= "images/quito.jpg" alt="quito">
 			
 		</a>
 	</header>
@@ -22,18 +21,16 @@
 
 	<aside>
 		<ul>
-            <a href= "shelley-index.php">
-            <li>Shelley</li>
-            <a href= "dewey_index.php">
-            <li>Dewey</li>
-            <a href= "maria-index.php">
-			<li>Maria</li>
+			<li> Xueying Chang </li>
+			<li> Dewey Bazirake</li>
+			<li> Maria Mancheno </li>
 		</ul>
 	</aside>
 
 
 	<main>
-		<p>We're students at the University of Rochester. </p>
+		<p>We're 3 students from different parts of the world joined together in CSC174. Shelley is specialized in entrepreneurship, impact investing and finance. Dewey is an international student from Uganda, East Africa currently studying in the United States. Maria is from Quito, Ecuador and is an interantional student at the University of Rochester, where she studies DIgital Media Studies and Math.
+ </p>
 	</main>
 
 
