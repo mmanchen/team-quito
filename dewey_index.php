@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<?php include "inc/nav-dewey.php"; ?>
 	<meta charset="utf-8">
 	<title> Dewey Bazirake </title>
 	<link rel="stylesheet" type="text/css" href="css/styles.css">
