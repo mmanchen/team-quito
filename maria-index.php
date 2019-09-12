@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<?php include "inc/nav-maria.php"; ?>
+	<?php include "inc/nav-maria.php"; ?>
 	<meta charset="utf-8">
 	<title> Maria Mancheno | Lab 1: Initial Personal Website </title>
 	<link rel="stylesheet" type="text/css" href="css/styles.css">
