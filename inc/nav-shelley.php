@@ -10,7 +10,7 @@
 			<a href="shelley-mindfulness-meditation.php">Mindfulness Meditation</a>
 		</li>
 		<li>
-			<a href="shelley-social-entrepreneurship"> Social Entrepeneurship </a>
+			<a href="shelley-social-entrepreneurship.php"> Social Entrepeneurship </a>
 		</li>
 	</ul>	
 	</nav>
