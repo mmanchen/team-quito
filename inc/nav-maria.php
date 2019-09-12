@@ -1,4 +1,4 @@
-<nav>
+<nav class="sub-menus">
 	<ul>
 		<li>
 			<a href="maria-index.php"> Me </a>
