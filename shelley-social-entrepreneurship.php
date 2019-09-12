@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<?php include "inc/nav-shelley.php"; ?>
 	<meta charset="utf-8">
 	<title> Xueying Chang  </title>
 	<link rel="stylesheet" type="text/css" href="css/styles.css">
