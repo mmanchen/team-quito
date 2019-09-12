@@ -1,4 +1,4 @@
-<nav>
+<nav class="sub-menus">
 	<ul>
 		<li>
 			<a href="dewey_index.php"> Me </a>
