@@ -1,7 +1,7 @@
 <nav>
 	<ul>
 		<li>
-			<a href="index.php"> Home Page </a>
+			<a href="index.php"> Home </a>
 		</li>
 		<li>
 			<a href="shelley-index.php">Shelley</a>
