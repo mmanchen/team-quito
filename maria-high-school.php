@@ -12,7 +12,7 @@
 	<header>
 		<a href= "index.html">
 			<h1> Maria Mancheno </h1>
-			<img src= "photo-maria.jpg" alt="maria">
+			<img src= "images/photo-maria.jpg" alt="maria">
 		</a>
 	</header>
 
