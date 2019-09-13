@@ -21,7 +21,7 @@
 
 	<aside>
 		<ul>
-			<li> Xueying Chang </li>
+			<li> Xueying Chen </li>
 			<li> Dewey Bazirake</li>
 			<li> Maria Mancheno </li>
 		</ul>
