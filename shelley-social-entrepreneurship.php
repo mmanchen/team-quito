@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<?php include "inc/nav-shelley.php"; ?>
+	
 	<meta charset="utf-8">
 	<title> Xueying Chang  </title>
 	<link rel="stylesheet" type="text/css" href="css/styles.css">
@@ -16,8 +16,8 @@
 			<img src= "images/shelley.jpg" alt="shelley">
 		</a>
 	</header>
-
-<?php include "inc/nav.php"; ?>
+	<?php include "inc/nav-shelley.php"; ?>
+	<?php include "inc/nav.php"; ?>
 
 	<aside>
 		<ul>
