@@ -3,7 +3,7 @@
 <head>
 	
 	<meta charset="utf-8">
-	<title> Xueying Chang  </title>
+	<title> Xueying Chen  </title>
 	<link rel="stylesheet" type="text/css" href="css/styles.css">
 	<script src="menu-highlighter.js"></script>
 </head>
@@ -12,7 +12,7 @@
 
 	<header>
 		<a href= "index.html">
-			<h1> Xueying Chang </h1>
+			<h1> Xueying Chen </h1>
 			<img src= "images/shelley.jpg" alt="shelley">
 		</a>
 	</header>
