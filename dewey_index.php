@@ -1,40 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<?php include "inc/nav-shelley.php"; ?>
+	<meta charset="utf-8">
+	<title> Dewey Bazirake </title>
+	<link rel="stylesheet" type="text/css" href="css/styles.css">
+	<script src="menu-highlighter.js"></script>
+</head>
+<body class= "container">
 
-<?php include "inc/html-top.php"; ?>
-
-<body class="container">
 
 	<header>
-	    <a href="dewey_index.php">
-	    <h1>  Dewey Bazirake </h1>
-	    <a href="dewey_index.php"><img src="images/dewey_pic.jpg" alt="Picture of Dewey Bazirake"></a>
+		<a href= "index.html">
+			<h1> Dewey Bazirake </h1>
+			<img src= "images/dewey_pic.jpg" alt="dewey">
+		</a>
+	</header>
 
-	    </a>
-    </header>
+<?php include "inc/nav.php"; ?>
 
-    <?php include "inc/nav-dewey.php"; ?>
-
-<aside>
-<ul>
+	<aside>
+		<ul>
 		<li>Data Scientist & Systems Analyst</li>
 		<li>Python, Web Design & Machine Learning</li>
 		<li>Business Analytics + Comp Sci</li>
-	</ul>
-  </aside>
+		</ul>
+	</aside>
 
 
-<main>
-<p>
+	<main>
 
-I am an international student from Uganda, East Africa currently studying in the United States. My belief in education to make a positive change has always been a driving factor in my academics, work and travel. My hope is that to learn the necessary skills in computer science, finance and management to lead organizations and companies that will make a fundamental change in our world. We are becoming a more interconnected world thanks to technology, common language and easier transportation mechanisms. This gives me optimism as we can always work holistically as humans to advance in technology, protect our environment for future generations and lead a new era of sustainable prosperity. For more details into my background, technical skills, origin and my entrepreneurship journey, check out the other pages.
+		<p>Uganda is located in the heart of Africa. It is home to 42 million people and the population is growing at an average of 3.7% per year (as of 2018). That means you should all expect more Ugandan babies in the upcoming years. Uganda is blessed with abundant sun, freshwater & a rich cultural diversity of people. We are home to 56 traditional tribes which all have respective languages, dances, cultural clothing & values. Despite the diversity, the people all thrive in unison. Uganda is known for its rich wildlife (including lions, giraffes, buffalos, crocodiles, hippopotamuses, etc), rich bird diversity and fresh-water lakes including Lake Victoria, the largest lake in Africa - mother to River Nile that is shared with Tanzania & Kenya. Uganda is a peaceful country that is vibrant with opportunity for growth habiting a people that treasure and preserve nature.
 </p>
-</main>
 
-<?php include "inc/scripts.php"; ?>
+	</main>
 
-<footer>
-  <strong>CSC 174: Advanced Front-end Web Design and Development</strong>
-</footer>
+		
 
-</body>
+	<?php include "inc/scripts.php";?>
+	<footer> <strong> CSC 174: Advanced Front-end Web Design and Development </strong></footer>
+	
 
-</html>
+</body></html>
