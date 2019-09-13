@@ -11,13 +11,14 @@
 
 
 	<header>
+		
 		<a href= "index.html">
 			<h1> Xueying Chang </h1>
 			<img src= "images/shelley.jpg" alt="shelley">
 		</a>
 	</header>
-
-<?php include "inc/nav.php"; ?>
+	<?php include "inc/nav-shelley.php"; ?>
+	<?php include "inc/nav.php"; ?>
 
 	<aside>
 		<ul>
