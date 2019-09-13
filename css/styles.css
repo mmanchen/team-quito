@@ -153,7 +153,6 @@ footer {grid-column: 1 / 2;}
 /*	*************************************************
 	STATE
 	************************************************* */
-​
 .menu a.is-current {background-color: black;
 		    	color: white;}
 
