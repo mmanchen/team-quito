@@ -5,7 +5,7 @@
 	<meta charset="utf-8">
 	<title> Xueying Chen  </title>
 	<link rel="stylesheet" type="text/css" href="css/styles.css">
-	<script src="menu-highlighter.js"></script>
+	<script src="js/menu-highlighter.js"></script>
 </head>
 <body class= "container">
 
