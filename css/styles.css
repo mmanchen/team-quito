@@ -138,12 +138,6 @@ header {
 	grid-column: 1 / 2; 
 	grid-row: 1 / 3;
 }
-
-nav {
-	grid-column: 2/4;
-   	grid-row: 4/5;
-}
-
 footer {grid-column: 1 / 2;}
 
 @media ( max-width: 375px ) {
@@ -162,9 +156,20 @@ footer {grid-column: 1 / 2;}
 .container {display: grid;
 			 grid-template-columns: 260px 1fr 200px;}
 nav.sub-menus {
+	color: blue;
+	grid-column: 2/4;
+	grid-row: 4/5;
+}
+nav.main-menu{
 	color: red;
+	grid-column: 3/4;
+	grid-row: 1/5;
 }
 
-nav a {color: black;}
+nav a {
+	color: blue;
+	
+
+}
 
 
