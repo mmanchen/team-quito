@@ -30,7 +30,7 @@
 	<main>
 		<h1> Innovative Works </h1>
 
-		<p>Uganda is located in the heart of Africa. It is home to 42 million people and the population is growing at an average of 3.7% per year (as of 2018). That means you should all expect more Ugandan babies in the upcoming years. Uganda is blessed with abundant sun, freshwater & a rich cultural diversity of people. We are home to 56 traditional tribes which all have respective languages, dances, cultural clothing & values. Despite the diversity, the people all thrive in unison. Uganda is known for its rich wildlife (including lions, giraffes, buffalos, crocodiles, hippopotamuses, etc), rich bird diversity and fresh-water lakes including Lake Victoria, the largest lake in Africa - mother to River Nile that is shared with Tanzania & Kenya. Uganda is a peaceful country that is vibrant with opportunity for growth habiting a people that treasure and preserve nature.
+		<p>I take pleasure in starting and managing companies. So far, I have two companies legally registered and undergoing development. One is a non-profit entity aimed at empowering young people in my home country and another is a for-profit e-commerce entity in the construction & infrastructure industry. A lot more will be started as long as I am alive. I have attempted many startups in the travel & environmental sustainability industries. As time progresses, I hope to startup & co-found companies in the Robotics, Real Estate, Energy, Agriculture & Logistics industries. The hope is that these companies will get to improve the lives of our humanity and delegate the profit to the right reasons that advance a civilization in the appropriate direction.
 </p>
 
 	</main>
